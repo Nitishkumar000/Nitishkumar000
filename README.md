@@ -1,9 +1,39 @@
-👨‍💻 Hello, fellow coders! I'm Nitish Kumar, a passionate B.Tech student majoring in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning. Currently in my third year, I am deeply engrossed in unraveling the mysteries of AI/ML and Cybersecurity, two dynamic fields that continue to shape the future of technology.
+👨‍💻 Hello, fellow innovators! I'm Nitish Kumar, a B.Tech graduate in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning, and a passion for building secure, scalable, and intelligent systems.
 
-🧠 My journey in AI/ML is a continuous exploration, where I immerse myself in understanding the algorithms, models, and applications that drive innovation in this domain. From neural networks to natural language processing, I'm fascinated by the endless possibilities AI/ML offers and am committed to honing my skills to contribute meaningfully to its advancement.
+🧠 My expertise in AI/ML spans Generative AI, Agentic AI, and Large Language Models (LLMs), where I’ve worked with TensorFlow, PyTorch, Hugging Face Transformers, LangChain, OpenAI APIs, and vector databases like Pinecone & Milvus to create context-aware AI agents, chatbots, and recommendation systems. I’ve developed fine-tuned LLMs for domain-specific tasks, automated workflows with AI-powered RAG pipelines, and built autonomous decision-making AI agents.
 
-🔐 Alongside AI/ML, I have developed a keen interest in Cybersecurity, recognizing its critical importance in safeguarding digital assets in our increasingly interconnected world. I delve into topics such as encryption, network security, and ethical hacking, striving to stay abreast of the latest developments and best practices to mitigate potential threats effectively.
+🔐 In Cybersecurity, I focus on secure AI model deployment, encryption, ethical hacking, adversarial defense techniques, and designing AI pipelines with security-first principles—ensuring trustworthy and tamper-resistant AI systems.
 
-💻 In addition to my core interests, I also dabble in Android development and Web development. Exploring the realms of mobile and web technology allows me to broaden my skill set and create practical, user-centric solutions. Whether it's building intuitive mobile apps or crafting responsive web experiences, I enjoy the creative challenges these platforms present.
+💻 On the development side, I’m skilled in Java backend development using Spring Boot, Hibernate, and REST APIs, building microservices-based architectures that integrate with PostgreSQL, MySQL, and MongoDB. My backend work often powers AI-driven applications, enabling seamless data handling and real-time AI inference.
 
-🚀 As I continue my academic journey, I am eager to collaborate with like-minded individuals and contribute to innovative projects that push the boundaries of technology. Let's connect, share ideas, and embark on this exciting journey of exploration and discovery together! 🌟🚀
+🐍 With Python, I’ve created projects like:
+
+    AI-powered Document Summarizer using LangChain + OpenAI + Pinecone
+
+    Cybersecurity Threat Detection System using Scikit-learn & anomaly detection models
+
+    Real-time Object Detection System with YOLOv8 + OpenCV
+
+    Automated Resume Screening Tool with NLP & LLM integration
+
+    AI-powered News Sentiment Analyzer with Hugging Face Transformers
+
+☕ With Java, I’ve built:
+
+    E-commerce Backend System (Spring Boot + Hibernate + MySQL)
+
+    AI-assisted Student Management Portal integrating chatbot features
+
+    Secure Banking API System with JWT authentication and audit logging
+
+🌐 In Web & Android development, I have delivered:
+
+    AI-driven Personal Finance Tracker (React + Flask backend + OpenAI)
+
+    Android App with AI-based Plagiarism Checker
+
+    Portfolio Website with AI-powered chatbot for interactive engagement
+
+🚀 I thrive on end-to-end solution development—from AI research & model building to secure deployment & backend integration—and I’m passionate about collaborating on projects that push the limits of what AI can achieve in real-world scenarios.
+
+Let’s connect to co-create the next generation of intelligent, secure, and impactful systems! 🌟🤖💡
