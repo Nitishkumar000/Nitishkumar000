@@ -1,4 +1,4 @@
-      👨‍💻 Hello, fellow innovators!
+👨‍💻 Hello, fellow innovators!
 I’m Nitish Kumar, a B.Tech graduate in Computer Science Engineering, specializing in Artificial Intelligence, Machine Learning, and Data Science. I’m deeply passionate about building intelligent, secure, and data-driven systems that bring ideas to life — systems that don’t just process data, but truly understand it to solve real-world problems with innovation and precision.
 
 🧠 Over the years, I’ve developed expertise across Generative AI, Agentic AI, Data Science, Data Analytics, and Large Language Models (LLMs). I love working at the intersection of research and real-world application — turning AI concepts into working, impactful solutions.
